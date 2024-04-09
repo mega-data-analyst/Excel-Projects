@@ -1,6 +1,6 @@
 All the files contains daahdboard of particular project
 
- GuestPulse: Hotel Feedback Analysis [Link-  
+ GuestPulse: Hotel Feedback Analysis [Link-  https://onedrive.live.com/edit?id=1E73127CA561CFAF!sfc790f7c64714c6bb54cc44c11e24afc&resid=1E73127CA561CFAF!sfc790f7c64714c6bb54cc44c11e24afc&cid=1e73127ca561cfaf&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xZTczMTI3Y2E1NjFjZmFmL0lRTjhEM244Y1dSclRMVk14RXdSNGtyOEFYaFI3NVRmaXBld1p1MlN5VXViYmtN&migratedtospo=true&embed=1&wdo=2]
  • Enhanced hospitality customer satisfaction and loyalty metrics by leveraging diverse feedback sources
  and gender insights.
  • Developed an interactive Excel dashboard using Power Query to visualize feedback ratings and demo
