@@ -23,3 +23,35 @@ All the files contains daahdboard of particular project
  • Cleaned and analyzed data in Excel, then created Tableau dashboards for key metrics: load factor,preferred carriers, top routes, and flights by distance.
  
  • Concluded that aligning load factor strategies with passenger values using data-driven insights enhances effectiveness, drives engagement, and improves service for High Cloud Airlines
+
+
+ Sales Dashboard [Link - https://onedrive.live.com/edit?id=1E73127CA561CFAF!sd6012f67e20f491589155a13dbe78671&resid=1E73127CA561CFAF!sd6012f67e20f491589155a13dbe78671&cid=1e73127ca561cfaf&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xZTczMTI3Y2E1NjFjZmFmL0lRTm5Md0hXRC1JVlNZa1ZXaFBiNTRaeEFVTEVQWDIyMm1USnFxWTNDME94MkdB&migratedtospo=true&embed=1&wdo=2]
+
+All visuals might not work on the link, download the file if want a better view.
+
+•	Analyse diverse sales data to optimize strategies and identify trends.
+
+•	Developed a comprehensive analysis framework using Excel pivot tables, charts, and slicers.
+
+•	Suggest targeted marketing campaigns based on top-selling products and categories. Implement dynamic pricing strategies based on sales trends. Optimize inventory management to meet demand fluctuations identified in the analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
