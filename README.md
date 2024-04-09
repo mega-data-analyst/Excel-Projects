@@ -16,7 +16,7 @@ All the files contains daahdboard of particular project
  • Employee surveys, professional development, competitive compensation, enhanced communication, and recognition programs were identified as key strategies to improve attrition rates
 
  
- High Cloud Airlines [Link - https://onedrive.live.com/edit?id=1E73127CA561CFAF!sc9bf1230e4744d289cd655c0978be77e&resid=1E73127CA561CFAF!sc9bf1230e4744d289cd655c0978be77e&cid=1e73127ca561cfaf&ithint=file%2cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xZTczMTI3Y2E1NjFjZmFmL0lRTXdFcl9KZE9Rb1RaeldWY0NYaS1kLUFWOER3aHdTQUYwYlpTWmc3VXA3NnBJ&migratedtospo=true&embed=1&wdo=2]
+ High Cloud Airlines [Link -https://1drv.ms/x/c/1e73127ca561cfaf/IQMDahFCW9chQ57owbVkauYsAea8z86DZdpDbzIAYul9Oxo](https://onedrive.live.com/edit?id=1E73127CA561CFAF!s42116a03d75b43219ee8c1b5646ae62c&resid=1E73127CA561CFAF!s42116a03d75b43219ee8c1b5646ae62c&cid=1e73127ca561cfaf&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xZTczMTI3Y2E1NjFjZmFmL0lRTURhaEZDVzljaFE1N293YlZrYXVZc0FlYTh6ODZEWmRwRGJ6SUFZdWw5T3hv&migratedtospo=true&embed=1&wdo=2]
  
  • Identified airline industry profitability challenges: high fixed costs, price-sensitive passengers, and seasonal fluctuations.
 
